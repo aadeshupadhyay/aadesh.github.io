@@ -3,19 +3,13 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
+* Email: [aadeshupadhyay30@gmail.com](mailto:aadeshupadhyay30@gmail.com)
 
-* Phone: [+91-123123](tel:+91-123123)
+* Linkedin: [linkedin.com/aadeshupadhyay]
 
 ---
 
-## Mailing Address
 
-> 221B, Baker Street
->
-> London
->
-> United Kingdom
 
 ---
 
