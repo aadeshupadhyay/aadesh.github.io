@@ -1,6 +1,6 @@
 title: Researcher
 url: "https://aadeshupadhyay.github.io/folio/"
-baseurl: "/researcher"
+baseurl: "/folio"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
