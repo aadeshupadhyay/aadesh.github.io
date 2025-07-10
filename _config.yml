@@ -9,7 +9,7 @@ tracking_id: #
 
 footer: yes
 footer_url: "https://aadeshupadhyay.github.io/folio/"
-
+footer_text: Copyright © 2024 Aadesh Upadhyay
 
 sass:
     style: compressed
