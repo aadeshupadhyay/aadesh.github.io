@@ -10,5 +10,5 @@ is_contact: true
 
 ## Social
 
- [LinkedIn](linkedin.com/aadeshupadhyay)
+ [LinkedIn](https://www.linkedin.com/in/aadeshupadhyay/)
 
