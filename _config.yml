@@ -9,7 +9,7 @@ tracking_id: #
 
 footer: yes
 footer_url: "https://aadeshupadhyay.github.io/folio/"
-footer_text: "Page design by Aadesh"
+
 
 sass:
     style: compressed
