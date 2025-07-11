@@ -7,6 +7,9 @@ permalink: /publications/
 ## Research Interest Areas: 
 My research lies at the intersection of cybersecurity, AI, and digital systems, with a focus on leveraging machine learning and large language models (LLMs) for threat detection, privacy preservation, and secure infrastructure design. I explore how AI can both enhance and compromise digital security — from spam detection and e-health data protection to the offensive and defensive use of generative AI in cyber warfare.My work also includes architectural reviews of NoC systems in heterogeneous multicore environments and the ethical implications of emerging technologies like deepfakes. I'm particularly interested in building resilient, scalable, and ethically grounded AI systems that address real-world security challenges in an increasingly automated and interconnected world.
 
+I invite you to read my publications to uncover the research problems and areas of interest that have been central to my research journey. This will provide you with valuable insights into my expertise and focus.
+
+
 ## Research Publications: 
 >**2024**
 
