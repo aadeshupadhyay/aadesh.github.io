@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## About Me
+## about me
 
 
 
@@ -18,7 +18,7 @@ Hi! I’m a Data analyst and AI researcher with 3+ years of experience working a
    
  * **execution is the differentiator** : *Ideas alone don’t move the needle:  consistent, quality delivery does. Done is better than perfect.*
 
-## Let's Connect
+## let's connect
 *You can find more about my work, research, and professional background here:*
 * [*Email*](mailto:aadeshupadhyay30@gmail.com)
 * [*Linkedin*](https://www.linkedin.com/in/aadeshupadhyay)
