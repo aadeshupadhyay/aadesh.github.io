@@ -37,7 +37,3 @@ My research focuses on cybersecurity. Exploring ML and AI techniques for phishin
 
 
 
-## References
-
-* [Dr. Robin Chataut: Assistant Professor, Department of Computer Science, Texas Christian University, USA](https://www.robinchataut.com/index.html)
-* [Dr.Kritagya Upadhyay: Assistant Professor, Department of Computer Science, Middle Tennese State Univeristy, USA](https://kritagya93.github.io/)
