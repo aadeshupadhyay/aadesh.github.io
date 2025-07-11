@@ -39,5 +39,5 @@ Here is a blockquote
 
 ## References
 
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
+* [Dr. Robin Chataut: Assistant Professor, Department of Computer Science, Texas Christian University, USA] (https://www.robinchataut.com/index.html)
+* [Dr.Kritagya Upadhyay: Assistant Professor, Department of Computer Science, Middle Tennese State Univeristy, USA](https://kritagya93.github.io/)
