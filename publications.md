@@ -32,6 +32,6 @@ Provided insights into rapidly evolving challenges posed by hyper-realistic synt
    * Discussed how AI fortifies e-health data security through anomaly detection and adaptive learning, boosting threat detection and response efficiency, and explored future directions—including quantum-resistant encryption, privacy-preserving AI, automated compliance, blockchain-secured interoperability, and ethical AI—to build resilient and secure healthcare infrastructures.
 
 
-5. **Survey of Network-on-Chip (NoC) for Heterogeneous Multicore Systems.**[* Published at IEEE 17th International Symposium on Embedded Multicore Systems-on-Chip (MCSoC)*](https://ieeexplore.ieee.org/abstract/document/10819599)
+5. **Survey of Network-on-Chip (NoC) for Heterogeneous Multicore Systems.**[*Published at IEEE 17th International Symposium on Embedded Multicore Systems-on-Chip (MCSoC)*](https://ieeexplore.ieee.org/abstract/document/10819599)
    * This paper systematically reviews recent research on *NoC designs tailored for hardware accelerators and heterogeneous integrations, distilling key architectural innovations, performance insights, outstanding challenges,* and promising avenues for future NoC development.
    * As chip technologies advance and **multi-core systems integrate CPUs with GPUs, FPGAs, and ASICs, onchip communication becomes a critical bottleneck**. Traditional NoC architectures—originally designed for CPU-only multi-cores—struggle to meet the variable, high-bandwidth, and diverse traffic patterns of these heterogeneous platforms.
