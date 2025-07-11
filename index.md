@@ -6,11 +6,8 @@ layout: default
 
 
 
-Hi! I am a Data Analyst with 3+ years of experience. I have completed my Masters in Computer Science from University of North Texas. I am actively involved in research.
+Hi! I’m a data analyst and AI researcher with 3+ years of experience working at the intersection of analytics, machine learning, and business impact. My work spans credit risk modeling, fraud detection, customer behavior analysis. I have completed my Masters in Computer Science from University of North Texas.I enjoy turning complex datasets into clear, actionable insights and building scalable solutions using Python, SQL, cloud platforms, and modern BI tools. Whether it's developing predictive models, designing dashboards, or optimizing data pipelines, I focus on delivering results that are both technically sound and strategically meaningful. 
 
-## Research Interest
-
-My research focuses on cybersecurity. Exploring ML and AI techniques for phishing detection, automated attack and defense strategies, malware detection, and autonomous vehicle security.
 
 ## some things I believe
  * **the best analysis starts with better questions**: *Great analysis isn’t about throwing models at data. It’s about asking the right questions first. The way a problem is framed often determines the insight it reveals. Creative, thoughtful querying beats brute-force computation every time.*
@@ -21,7 +18,12 @@ My research focuses on cybersecurity. Exploring ML and AI techniques for phishin
    
  * **execution is the differentiator** : *Ideas alone don’t move the needle:  consistent, quality delivery does. Done is better than perfect.*
 
-
+## Let's Connect
+*You can find more about my work, research, and professional background here:*
+[Email:] (aadeshupadhyay30@gmail.com)
+[Linkedin:] (https://www.linkedin.com/in/aadeshupadhyay)
+[Google Scholar:] (https://scholar.google.com/citations?user=sTxENtUAAAAJ&hl=en) 
+[ORCID:] (https://orcid.org/0009-0000-1276-353X)
 
 
 
