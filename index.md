@@ -13,25 +13,17 @@ Hi! I am a Data Analyst with 3+ years of experience. I have completed my Masters
 My research focuses on cybersecurity. Exploring ML and AI techniques for phishing detection, automated attack and defense strategies, malware detection, and autonomous vehicle security.
 
 ## some things I believe
- 1.**the best analysis starts with better questions**
- * the framing defines the finding
- * creativity in querying > brute force modeling
- * data can’t speak — interpretation is the voice
+ * **the best analysis starts with better questions**
+   *Great analysis isn’t about throwing models at data. It’s about asking the right questions first. The way a problem is framed often determines the insight it reveals. Creative, thoughtful querying beats brute-force computation every time.*
 
- 2.**intuition and rigor are allies, not opposites**
- * statistics is the skeleton, intuition is the soul
- * outliers aren’t noise — they’re often signals
- * lived experience and domain knowledge guide the best hypotheses
+ * **intuition and rigor are allies, not opposites**
+   *While statistics provide structure, intuition adds depth and direction. Outliers can hold hidden truth, and experience often guides where to look. True insight comes from balancing evidence with informed instinct.*
 
- 3.**AI is a tool, not a magic trick**
- * the best ML models are boring, not magical
- * LLMs don’t think, but they can help you think faster
- * real impact = relevance × reliability
-
- 4.**execution is the differentiator**
-  * ideas are cheap, production is hard
-  * reproducibility isn’t optional — it’s respect
-  * “done” is better than “still tuning hyperparameters”
+ * **AI is a tool, not a magic trick**
+   *The best AI models are practical, explainable, and grounded in reality,not mysterious black boxes.Tools like LLMs enhance human thinking but don’t replace it.*
+   
+ * **execution is the differentiator**
+   *Ideas alone don’t move the needle:  consistent, quality delivery does. Done is better than perfect.*
 
 
 
