@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="sherlock.jpg">
+
 
 Hi! I am a Data Analyst with 3+ years of experience. I have completed my Masters in Computer Science from University of North Texas. I am actively involved in research.
 
