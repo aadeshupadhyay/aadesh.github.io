@@ -6,7 +6,7 @@ layout: default
 
 
 
-Hi! I’m a data analyst and AI researcher with 3+ years of experience working at the intersection of analytics, machine learning, and business impact. My work spans credit risk modeling, fraud detection, customer behavior analysis. I have completed my Masters in Computer Science from University of North Texas.I enjoy turning complex datasets into clear, actionable insights and building scalable solutions using Python, SQL, cloud platforms, and modern BI tools. Whether it's developing predictive models, designing dashboards, or optimizing data pipelines, I focus on delivering results that are both technically sound and strategically meaningful. 
+Hi! I’m a Data analyst and AI researcher with 3+ years of experience working at the intersection of analytics, machine learning, and business impact. My work spans credit risk modeling, fraud detection, customer behavior analysis. I have completed my Masters in Computer Science from University of North Texas.I enjoy turning complex datasets into clear, actionable insights and building scalable solutions using Python, SQL, cloud platforms, and modern BI tools. Whether it's developing predictive models, designing dashboards, or optimizing data pipelines, I focus on delivering results that are both technically sound and strategically meaningful. 
 
 
 ## some things I believe
