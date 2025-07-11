@@ -24,7 +24,7 @@ Provided insights into rapidly evolving challenges posed by hyper-realistic synt
    * Introduced "**Occupy AI**", a customized, fine-tuned LLM specifically *designed to automate and execute cyberattacks*, *capable of crafting steps and generating executable code for various cyber threats*.
    * Emphasized the urgent need for *ethical AI practices, robust cybersecurity measures, and regulatory oversight* to mitigate AI-related threats and protect against emerging cyber dangers in the evolving digital landscape.
    
-4. **Security and privacy in E-health systems: a review of AI and machine learning techniques.** [*Published in IEEE ACCESS*](https://ieeexplore.ieee.org/abstract/document/10697161)
+4. **Security and privacy in E-health systems: a review of AI and machine learning techniques.**[*Published in IEEE ACCESS*](https://ieeexplore.ieee.org/abstract/document/10697161)
     * Analyzed the evolution of e-health systems from paper records to advanced EHRs, exploring their components and applications, and presented emerging AI-driven cybersecurity trends,     emphasizing real-time threat detection, predictive analytics, and scalability for safeguarding sensitive health data.
    * Discussed how AI fortifies e-health data security through anomaly detection and adaptive learning, boosting threat detection and response efficiency, and explored future directions—including quantum-resistant encryption, privacy-preserving AI, automated compliance, blockchain-secured interoperability, and ethical AI—to build resilient and secure healthcare infrastructures.
 
