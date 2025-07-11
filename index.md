@@ -17,14 +17,17 @@ My research focuses on cybersecurity. Exploring ML and AI techniques for phishin
   * the framing defines the finding
   * creativity in querying > brute force modeling
   * data can’t speak — interpretation is the voice
+
  **intuition and rigor are allies, not opposites**
   * statistics is the skeleton, intuition is the soul
   * outliers aren’t noise — they’re often signals
   * lived experience and domain knowledge guide the best hypotheses
+
  **AI is a tool, not a magic trick**
   * the best ML models are boring, not magical
   * LLMs don’t think, but they can help you think faster
   * real impact = relevance × reliability
+
  **execution is the differentiator**
   * ideas are cheap, production is hard
   * reproducibility isn’t optional — it’s respect
