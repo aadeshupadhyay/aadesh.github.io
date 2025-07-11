@@ -20,10 +20,10 @@ Hi! I’m a data analyst and AI researcher with 3+ years of experience working a
 
 ## Let's Connect
 *You can find more about my work, research, and professional background here:*
-[Email:] (aadeshupadhyay30@gmail.com)
-[Linkedin:] (https://www.linkedin.com/in/aadeshupadhyay)
-[Google Scholar:] (https://scholar.google.com/citations?user=sTxENtUAAAAJ&hl=en) 
-[ORCID:] (https://orcid.org/0009-0000-1276-353X)
+* [Email:] (aadeshupadhyay30@gmail.com)
+* [Linkedin:] (https://www.linkedin.com/in/aadeshupadhyay)
+* [Google Scholar:] (https://scholar.google.com/citations?user=sTxENtUAAAAJ&hl=en) 
+* [ORCID:] (https://orcid.org/0009-0000-1276-353X)
 
 
 
