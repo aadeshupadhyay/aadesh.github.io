@@ -14,7 +14,7 @@ My research lies at the intersection of cybersecurity, AI, and digital systems, 
    * Authored a book chapter analyzing the **development, creation, detection, and mitigation of deepfake technology, emphasizing Generative Adversarial Networks (GANs)**. Explored real-world applications, ethical considerations, and the future trajectory of deepfakes, addressing misinformation, privacy, and security concerns.
 Provided insights into rapidly evolving challenges posed by hyper-realistic synthetic media across diverse industries.
       
-2.**Cross Model Analysis of Large Language Models and Machine Learning Models in classifying Spam SMS.**[*Published at 8th Cyber Security in Networking Conference (CSNet 2024).*](https://ieeexplore.ieee.org/document/10851763) 
+2. **Cross Model Analysis of Large Language Models and Machine Learning Models in classifying Spam SMS.**[*Published at 8th Cyber Security in Networking Conference (CSNet 2024).*](https://ieeexplore.ieee.org/document/10851763) 
    * Evaluated traditional ML models (**SVM, Logistic Regression, Random Forest, Naive Bayes, KNN, XGBoost**) and LLMs for spam detection, establishing a robust baseline and addressing the critical need for effective mechanisms against sophisticated cyber threats.
    * Extended the analysis to LLMs (**ChatGPT 3.5, Perplexity AI, and a custom fine-tuned GPT**), revealing their exceptional potential to enhance spam detection. While traditional ML models remain effective, LLMs demonstrate promising applications, highlighting the strengths of both classical and advanced approaches.
      
