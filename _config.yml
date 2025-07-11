@@ -1,6 +1,6 @@
 title: Aadesh Upadhyay
 url: "https://aadeshupadhyay.github.io/folio/"
-baseurl: "/folio"
+baseurl: ""
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
